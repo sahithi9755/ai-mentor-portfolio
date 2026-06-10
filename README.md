@@ -1,5 +1,10 @@
 ```markdown
-# AI Mentor Bootcamp — <Doddi Sahithi>
+## Day 1 — Setup complete
 
-Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + capstone Streamlit URL.
+- ✅ Google AI Studio API key provisioned
+- ✅ Groq API key provisioned
+- ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
+- 4-tool comparison matrix from Lab 1A: see screenshot below
+
+![Gemini first call](gemini_first_call.png)
 ```
