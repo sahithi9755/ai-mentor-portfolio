@@ -3,13 +3,11 @@
 
 Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + capstone Streamlit URL.
 ```
-```markdown
 ## Day 1 — Setup complete
 
 - ✅ Google AI Studio API key provisioned
 - ✅ Groq API key provisioned
-- ✅ Hello-Gemini call working — see ![Gemini first call](https://raw.githubusercontent.com/sahithi9755/ai-mentor-portfolio/main/gemini_first_call.png)
+- ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
-![Gemini first call](./gemini_first_call.png)
-```
+![Gemini first call](gemini_first_call.png)
