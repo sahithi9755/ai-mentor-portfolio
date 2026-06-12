@@ -1,5 +1,5 @@
 # Placement Cell AI Use Policy
-**Author:** Harsha | Roll No: 23A91A1267  
+**Author:** Sahithi | Roll No: 23A91A0515 
 **Date:** 11 June 2026 | **Version:** 1.0
 
 ---
