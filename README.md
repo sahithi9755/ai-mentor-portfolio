@@ -33,4 +33,26 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - ✅ Test email screenshot below
 
 ![Test email screenshot](daily_digest_test_email.png)
-```
+
+## Day 5 — Résumé Scorer Streamlit
+
+**Live URL:** https://ai-mentor-portfolio-jxueduptxclnmfrkdegwee.streamlit.app
+
+### Features
+
+* Fit score with rationale
+* Score breakdown chart
+* Missing skills detection
+* Learning resources recommendations
+
+### Tools Used
+
+* Streamlit
+* Gemini 2.5 Flash
+* Continue.dev
+
+### Reflection
+
+* Continue.dev helped scaffold the application quickly.
+* I reviewed and understood each accepted code suggestion.
+* Deployment taught me how to securely manage API keys using Streamlit Secrets.
