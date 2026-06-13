@@ -56,3 +56,23 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 * Continue.dev helped scaffold the application quickly.
 * I reviewed and understood each accepted code suggestion.
 * Deployment taught me how to securely manage API keys using Streamlit Secrets.
+
+## Day 5 Lab 5B — Hugging Face Pulls
+
+### Models tested
+
+* facebook/bart-large-mnli — zero-shot classification
+* distilbert-base-uncased-finetuned-sst-2-english — sentiment analysis
+
+### Timing comparison
+
+| Method          | Min          | Avg          |
+| --------------- | ------------ | ------------ |
+| Local Inference |    0.83s     |     1.04s    |
+
+### Reflection
+
+1. Local inference downloads the model once and can then process multiple inputs without API calls.
+2. Sentiment analysis correctly identified complaint-based interview answers as negative even when the speaker intended to show competence.
+3. The Hugging Face API endpoint was unavailable from the Colab runtime, so local inference was used successfully.
+
